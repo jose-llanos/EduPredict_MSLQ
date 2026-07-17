@@ -292,7 +292,7 @@ Content-Type: application/json
   "performance_range": "4.1 - 5.0",
   "week": 4,
   "confidence_score": 0.85,
-  "prediction_date": "2024-01-15T10:30:45.123456"
+  "prediction_date": "2026-01-15T10:30:45.123456"
 }
 ```
 
@@ -782,7 +782,7 @@ Esta API REST profesional te permite:
 
 ---
 
-**Última actualización:** Julio 2024
+**Última actualización:** Julio 2026
 **Versión:** 1.0.0
 | I24    | Característica MSLQ 24 |
 | I33    | Característica MSLQ 33 |
@@ -877,4 +877,4 @@ Para reportar issues o sugerencias, contacta al equipo de desarrollo.
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: 2024
+**Última actualización**: 2026
